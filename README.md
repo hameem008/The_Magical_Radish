@@ -1,6 +1,7 @@
 # 🥕 The_Magical_Radish
 
 **The_Magical_Radish** is a simple yet fun 2D game developed using the [`iGraphics.h`](https://github.com/IUT-ACM/iGraphics) library in C. In this game, a magical radish leads a determined donkey on a chase! The radish teleports to wherever you click, and the donkey dashes toward it, creating a playful and entertaining experience.
+This game was the term project of my undergraduation Level - 1, Term - 1. 
 
 ---
 
