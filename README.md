@@ -9,14 +9,13 @@
 - You control the **magical radish** by clicking anywhere on the screen.
 - The **donkey** will run toward the last clicked location.
 - The game continues infinitely as you lead the donkey around the screen.
-- there is a demo video of the gameplay
 
 ---
 
 ## 📷 Preview
 
 <!-- You can include screenshots or GIFs here -->
-*Coming soon!*
+*demo.mkv*
 
 ---
 
