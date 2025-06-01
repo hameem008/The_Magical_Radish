@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1646908330 c:\users\mimi\documents\new\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1646905413 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\picturedemo.cpp
+	"iGraphics.h"
+
+1647007588 source:c:\my drive\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1646990876 c:\my drive\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1646926596 c:\my drive\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1646926596 c:\my drive\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1646926596 c:\my drive\igraphics-master\opengl\include\gl.h
+
+1647010414 source:c:\my drive\igraphics-master\picturedemo.cpp
+	"iGraphics.h"
+
+1647007657 source:c:\my drive\igraphics-master\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1646926596 source:c:\my drive\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
+1646926596 source:c:\my drive\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1650098304 source:c:\my drive\igraphics-master\imain.cpp
+	"igraphics.h"
+	<string.h>
+
+1650515744 source:c:\my drive\2005043_2005055\imain.cpp
+	"igraphics.h"
+	<string.h>
+
+1646990876 c:\my drive\2005043_2005055\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1646926596 c:\my drive\2005043_2005055\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1646926596 c:\my drive\2005043_2005055\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
